@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **basics of Artificial Neural Networks and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [malintha.vercel.app](malintha.vercel.app)
+- 👨‍💻 All of my projects are available at [malintha.vercel.app](https://malintha.vercel.app)
 
 - 💬 Ask me about **Angular, Next JS, Nest JS, React**
 
