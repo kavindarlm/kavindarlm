@@ -62,7 +62,7 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> 
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React.svg" alt="reactnative" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="reactnative" width="50" height="50"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> 
@@ -88,12 +88,12 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="50" height="50"/> 
   </a>
-  <a href="https://clickup.com/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://clickup.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ClickUp.svg" alt="clickup" width="50" height="50"/> 
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Swagger.svg" alt="swagger" width="50" height="50"/> 
-  </a>
+  </a> -->
 </p>
 
 ---
