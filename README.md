@@ -70,9 +70,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> 
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Tensorflow.svg" alt="tensorflow" width="50" height="50"/> 
-  </a>
+  </a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> 
   </a>
