@@ -7,6 +7,8 @@
 ---
 - 🔭 I’m currently working on **my Software solution project**
 
+-  🔭 Other account [malintha-101](https://github.com/Malintha-101)
+
 - 🌱 I’m currently learning **basics of Artificial Neural Networks and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [malintha.vercel.app](https://malintha.vercel.app)
